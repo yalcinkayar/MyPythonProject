@@ -1,0 +1,1 @@
+print("Welcome to my first repository")git remote add origin https://github.com/yalcinkayar/MyPythonProject.git
